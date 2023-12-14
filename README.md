@@ -37,6 +37,6 @@ I'm a proactive developer and competitive programmer dedicated to pushing the li
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=lifeadventurer&theme=tokyonight)](https://git.io/streak-stats)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&theme=tokyonight&exclude_repo=lifeadventurer.github.io&size_weight=0.5&count_weight=0.5) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&theme=tokyonight&exclude_repo=lifeadventurer.github.io&size_weight=0.4&count_weight=0.6) 
 
 </p>
