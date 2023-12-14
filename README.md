@@ -33,7 +33,7 @@ I'm a proactive developer and competitive programmer dedicated to pushing the li
   
   <b>My GitHub Stats</b>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeadventurer\&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lifeadventurer\&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage)
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=lifeadventurer&theme=tokyonight)](https://git.io/streak-stats)
 
