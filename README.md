@@ -24,14 +24,11 @@ I'm a proactive developer and competitive programmer dedicated to pushing the li
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-### Socials
-
+<!-- 
 <p align="left"> <a href="https://www.github.com/Lifeadventurer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
+-->
+### My GitHub Stats
 <p>
-  
-  <b>My GitHub Stats</b>
 
 <a href="https://github.com/lifeadventurer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage"/>
