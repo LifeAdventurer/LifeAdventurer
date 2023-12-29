@@ -41,9 +41,9 @@ I'm a proactive developer and competitive programmer dedicated to pushing the li
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24](https://github.com/LifeAdventurer/generators/issues/24) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-2. ❗ Opened issue [#23](https://github.com/LifeAdventurer/generators/issues/23) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. ❗ Opened issue [#22](https://github.com/LifeAdventurer/generators/issues/22) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-4. ❗ Opened issue [#38](https://github.com/LifeAdventurer/Moonafly/issues/38) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-5. ❗ Opened issue [#37](https://github.com/LifeAdventurer/Moonafly/issues/37) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+1. 🔒 Closed issue [#21](https://github.com/LifeAdventurer/Moonafly/issues/21) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+2. ❗ Opened issue [#24](https://github.com/LifeAdventurer/generators/issues/24) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+3. ❗ Opened issue [#23](https://github.com/LifeAdventurer/generators/issues/23) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+4. ❗ Opened issue [#22](https://github.com/LifeAdventurer/generators/issues/22) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+5. ❗ Opened issue [#38](https://github.com/LifeAdventurer/Moonafly/issues/38) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
 <!--END_SECTION:activity-->
