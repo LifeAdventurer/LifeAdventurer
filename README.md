@@ -31,8 +31,8 @@ I'm a proactive developer and competitive programmer dedicated to pushing the li
 <p>
 
 <a href="https://github.com/lifeadventurer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&langs_count=10&theme=tokyonight&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5"/> <!-- hide css, html if I have more languages && the percentage -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&disable_animations=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&langs_count=10&theme=tokyonight&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5&disable_animations=true"/> <!-- hide css, html if I have more languages && the percentage -->
 </a>
 
 <!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=lifeadventurer&theme=tokyonight)](https://git.io/streak-stats)-->
