@@ -37,3 +37,8 @@ I'm a proactive developer and competitive programmer dedicated to pushing the li
 
 <!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=lifeadventurer&theme=tokyonight)](https://git.io/streak-stats)-->
 </p>
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
