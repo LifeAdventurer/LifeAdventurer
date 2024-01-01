@@ -41,9 +41,9 @@ I'm a proactive developer and competitive programmer dedicated to pushing the li
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/janaindrajit/primePy/issues/9) in [janaindrajit/primePy](https://github.com/janaindrajit/primePy)
-2. 🔒 Closed issue [#25](https://github.com/LifeAdventurer/generators/issues/25) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. ❗ Opened issue [#25](https://github.com/LifeAdventurer/generators/issues/25) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-4. ❗ Opened issue [#4](https://github.com/LifeAdventurer/patient-diet-recorder/issues/4) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-5. ❗ Opened issue [#3](https://github.com/LifeAdventurer/patient-diet-recorder/issues/3) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+1. ❗ Opened issue [#39](https://github.com/LifeAdventurer/Moonafly/issues/39) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+2. ❗ Opened issue [#9](https://github.com/janaindrajit/primePy/issues/9) in [janaindrajit/primePy](https://github.com/janaindrajit/primePy)
+3. 🔒 Closed issue [#25](https://github.com/LifeAdventurer/generators/issues/25) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+4. ❗ Opened issue [#25](https://github.com/LifeAdventurer/generators/issues/25) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+5. ❗ Opened issue [#4](https://github.com/LifeAdventurer/patient-diet-recorder/issues/4) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
 <!--END_SECTION:activity-->
