@@ -31,8 +31,8 @@ I'm a proactive developer and competitive programmer dedicated to pushing the li
 <p>
 
 <a href="https://github.com/lifeadventurer">
-  <img width="365em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&disable_animations=true"/>
-  <img width="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&hide=css,html&langs_count=10&theme=tokyonight&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5&disable_animations=true"/> <!-- hide css, html if I have more languages && the percentage -->
+  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&disable_animations=true"/>
+  <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&hide=css,html&langs_count=10&theme=tokyonight&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5&disable_animations=true"/> <!-- hide css, html if I have more languages && the percentage -->
  <img width="380em" src="https://streak-stats.demolab.com/?user=lifeadventurer&theme=tokyonight"/>
 </a>
 
