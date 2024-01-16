@@ -3,7 +3,7 @@
 
 ### About
 
-I'm a proactive developer and competitive programmer dedicated to pushing the limits of coding excellence.
+I'm a proactive developer, avid researcher and competitive programmer dedicated to pushing the boundaries of coding excellence.
 
 ### Skills
 
