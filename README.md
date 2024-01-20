@@ -43,9 +43,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/LifeAdventurer/Moonafly/issues/25#issuecomment-1902092778) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-2. 🔒 Closed issue [#35](https://github.com/LifeAdventurer/Moonafly/issues/35) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-3. 🔒 Closed issue [#44](https://github.com/LifeAdventurer/Moonafly/issues/44) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-4. 🔒 Closed issue [#60](https://github.com/LifeAdventurer/Moonafly/issues/60) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-5. 🗣 Commented on [#4916](https://github.com/monkeytypegame/monkeytype/pull/4916#issuecomment-1898233635) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
+1. 🔒 Closed issue [#2](https://github.com/LifeAdventurer/Moonafly/issues/2) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+2. 🗣 Commented on [#25](https://github.com/LifeAdventurer/Moonafly/issues/25#issuecomment-1902092778) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+3. 🔒 Closed issue [#35](https://github.com/LifeAdventurer/Moonafly/issues/35) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+4. 🔒 Closed issue [#44](https://github.com/LifeAdventurer/Moonafly/issues/44) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+5. 🔒 Closed issue [#60](https://github.com/LifeAdventurer/Moonafly/issues/60) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
 <!--END_SECTION:activity-->
