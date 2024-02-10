@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/LifeAdventurer/Moonafly/issues/22) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-2. 🗣 Commented on [#51](https://github.com/LifeAdventurer/Moonafly/issues/51#issuecomment-1936967684) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-3. 🗣 Commented on [#31](https://github.com/LifeAdventurer/Moonafly/issues/31#issuecomment-1935583934) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-4. 🗣 Commented on [#69](https://github.com/LifeAdventurer/Moonafly/issues/69#issuecomment-1934357755) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-5. ❗ Opened issue [#395](https://github.com/ssut/py-googletrans/issues/395) in [ssut/py-googletrans](https://github.com/ssut/py-googletrans)
+1. 💪 Opened PR [#1](https://github.com/ChocomintTW/Big2AI/pull/1) in [ChocomintTW/Big2AI](https://github.com/ChocomintTW/Big2AI)
+2. 🔒 Closed issue [#22](https://github.com/LifeAdventurer/Moonafly/issues/22) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+3. 🗣 Commented on [#51](https://github.com/LifeAdventurer/Moonafly/issues/51#issuecomment-1936967684) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+4. 🗣 Commented on [#31](https://github.com/LifeAdventurer/Moonafly/issues/31#issuecomment-1935583934) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+5. 🗣 Commented on [#69](https://github.com/LifeAdventurer/Moonafly/issues/69#issuecomment-1934357755) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
 <!--END_SECTION:activity-->
