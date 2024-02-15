@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/hung-yu-Shih/GA-cell/pull/1) in [hung-yu-Shih/GA-cell](https://github.com/hung-yu-Shih/GA-cell)
-2. 🔒 Closed issue [#2](https://github.com/LifeAdventurer/patient-diet-recorder/issues/2) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-3. 🔒 Closed issue [#1](https://github.com/LifeAdventurer/patient-diet-recorder/issues/1) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-4. 🔒 Closed issue [#3](https://github.com/LifeAdventurer/patient-diet-recorder/issues/3) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-5. 🗣 Commented on [#32](https://github.com/LifeAdventurer/Moonafly/issues/32#issuecomment-1939203083) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+1. 💪 Opened PR [#3](https://github.com/hung-yu-Shih/GA-cell/pull/3) in [hung-yu-Shih/GA-cell](https://github.com/hung-yu-Shih/GA-cell)
+2. 💪 Opened PR [#2](https://github.com/hung-yu-Shih/GA-cell/pull/2) in [hung-yu-Shih/GA-cell](https://github.com/hung-yu-Shih/GA-cell)
+3. 💪 Opened PR [#1](https://github.com/hung-yu-Shih/GA-cell/pull/1) in [hung-yu-Shih/GA-cell](https://github.com/hung-yu-Shih/GA-cell)
+4. 🔒 Closed issue [#2](https://github.com/LifeAdventurer/patient-diet-recorder/issues/2) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+5. 🔒 Closed issue [#1](https://github.com/LifeAdventurer/patient-diet-recorder/issues/1) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
 <!--END_SECTION:activity-->
