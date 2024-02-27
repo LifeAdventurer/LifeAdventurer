@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/hung-yu-Shih/NEAT-cell/pull/2) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
-2. 💪 Opened PR [#1](https://github.com/hung-yu-Shih/NEAT-cell/pull/1) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
-3. 🗣 Commented on [#415](https://github.com/agrawal-d/cph/issues/415#issuecomment-1952243765) in [agrawal-d/cph](https://github.com/agrawal-d/cph)
-4. 🎉 Merged PR [#47](https://github.com/TFcis/NTOJ/pull/47) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-5. ❗ Opened issue [#415](https://github.com/agrawal-d/cph/issues/415) in [agrawal-d/cph](https://github.com/agrawal-d/cph)
+1. ❗ Opened issue [#4](https://github.com/hung-yu-Shih/NEAT-cell/issues/4) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+2. ❗ Opened issue [#3](https://github.com/hung-yu-Shih/NEAT-cell/issues/3) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+3. 💪 Opened PR [#2](https://github.com/hung-yu-Shih/NEAT-cell/pull/2) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+4. 💪 Opened PR [#1](https://github.com/hung-yu-Shih/NEAT-cell/pull/1) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+5. 🗣 Commented on [#415](https://github.com/agrawal-d/cph/issues/415#issuecomment-1952243765) in [agrawal-d/cph](https://github.com/agrawal-d/cph)
 <!--END_SECTION:activity-->
