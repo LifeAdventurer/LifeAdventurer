@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/hung-yu-Shih/NEAT-cell/pull/6) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
-2. ❗ Opened issue [#5](https://github.com/hung-yu-Shih/NEAT-cell/issues/5) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
-3. ❗ Opened issue [#4](https://github.com/hung-yu-Shih/NEAT-cell/issues/4) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
-4. ❗ Opened issue [#3](https://github.com/hung-yu-Shih/NEAT-cell/issues/3) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
-5. 💪 Opened PR [#2](https://github.com/hung-yu-Shih/NEAT-cell/pull/2) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+1. 💪 Opened PR [#7](https://github.com/hung-yu-Shih/NEAT-cell/pull/7) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+2. 💪 Opened PR [#6](https://github.com/hung-yu-Shih/NEAT-cell/pull/6) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+3. ❗ Opened issue [#5](https://github.com/hung-yu-Shih/NEAT-cell/issues/5) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+4. ❗ Opened issue [#4](https://github.com/hung-yu-Shih/NEAT-cell/issues/4) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+5. ❗ Opened issue [#3](https://github.com/hung-yu-Shih/NEAT-cell/issues/3) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
 <!--END_SECTION:activity-->
