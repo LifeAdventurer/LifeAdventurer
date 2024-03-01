@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/LifeAdventurer/generators/pull/28) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-2. 💪 Opened PR [#9](https://github.com/hung-yu-Shih/NEAT-cell/pull/9) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
-3. 💪 Opened PR [#8](https://github.com/hung-yu-Shih/NEAT-cell/pull/8) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
-4. 💪 Opened PR [#7](https://github.com/hung-yu-Shih/NEAT-cell/pull/7) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
-5. 💪 Opened PR [#6](https://github.com/hung-yu-Shih/NEAT-cell/pull/6) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+1. 💪 Opened PR [#10](https://github.com/hung-yu-Shih/NEAT-cell/pull/10) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+2. 🎉 Merged PR [#28](https://github.com/LifeAdventurer/generators/pull/28) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+3. 💪 Opened PR [#9](https://github.com/hung-yu-Shih/NEAT-cell/pull/9) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+4. 💪 Opened PR [#8](https://github.com/hung-yu-Shih/NEAT-cell/pull/8) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+5. 💪 Opened PR [#7](https://github.com/hung-yu-Shih/NEAT-cell/pull/7) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
 <!--END_SECTION:activity-->
