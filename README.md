@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/LifeAdventurer/generators/pull/29#issuecomment-1981016832) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-2. 🗣 Commented on [#5570](https://github.com/microsoft/pylance-release/issues/5570#issuecomment-1977002473) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-3. 🗣 Commented on [#5570](https://github.com/microsoft/pylance-release/issues/5570#issuecomment-1976595592) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-4. ❗ Opened issue [#5570](https://github.com/microsoft/pylance-release/issues/5570) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-5. 💪 Opened PR [#12](https://github.com/hung-yu-Shih/NEAT-cell/pull/12) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
+1. 🎉 Merged PR [#29](https://github.com/LifeAdventurer/generators/pull/29) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+2. 🗣 Commented on [#29](https://github.com/LifeAdventurer/generators/pull/29#issuecomment-1981016832) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+3. 🗣 Commented on [#5570](https://github.com/microsoft/pylance-release/issues/5570#issuecomment-1977002473) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+4. 🗣 Commented on [#5570](https://github.com/microsoft/pylance-release/issues/5570#issuecomment-1976595592) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+5. ❗ Opened issue [#5570](https://github.com/microsoft/pylance-release/issues/5570) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 <!--END_SECTION:activity-->
