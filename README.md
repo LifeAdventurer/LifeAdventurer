@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5604](https://github.com/microsoft/pylance-release/issues/5604) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-2. 🎉 Merged PR [#34](https://github.com/LifeAdventurer/generators/pull/34) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. 🗣 Commented on [#31](https://github.com/LifeAdventurer/Moonafly/issues/31#issuecomment-1985322701) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-4. 🔒 Closed issue [#32](https://github.com/LifeAdventurer/generators/issues/32) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-5. 🎉 Merged PR [#33](https://github.com/LifeAdventurer/generators/pull/33) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+1. 💪 Opened PR [#2](https://github.com/tobiichi3227/this-is-not-minus/pull/2) in [tobiichi3227/this-is-not-minus](https://github.com/tobiichi3227/this-is-not-minus)
+2. ❗ Opened issue [#5604](https://github.com/microsoft/pylance-release/issues/5604) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+3. 🎉 Merged PR [#34](https://github.com/LifeAdventurer/generators/pull/34) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+4. 🗣 Commented on [#31](https://github.com/LifeAdventurer/Moonafly/issues/31#issuecomment-1985322701) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+5. 🔒 Closed issue [#32](https://github.com/LifeAdventurer/generators/issues/32) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
 <!--END_SECTION:activity-->
