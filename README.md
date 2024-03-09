@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/LifeAdventurer/Moonafly/pull/77) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-2. 🗣 Commented on [#77](https://github.com/LifeAdventurer/Moonafly/pull/77#issuecomment-1986201518) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-3. 🗣 Commented on [#5604](https://github.com/microsoft/pylance-release/issues/5604#issuecomment-1986109072) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-4. 🎉 Merged PR [#76](https://github.com/LifeAdventurer/Moonafly/pull/76) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-5. 💪 Opened PR [#76](https://github.com/LifeAdventurer/Moonafly/pull/76) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+1. ❗ Opened issue [#79](https://github.com/LifeAdventurer/Moonafly/issues/79) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+2. ❗ Opened issue [#78](https://github.com/LifeAdventurer/Moonafly/issues/78) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+3. 🎉 Merged PR [#77](https://github.com/LifeAdventurer/Moonafly/pull/77) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+4. 🗣 Commented on [#77](https://github.com/LifeAdventurer/Moonafly/pull/77#issuecomment-1986201518) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+5. 🗣 Commented on [#5604](https://github.com/microsoft/pylance-release/issues/5604#issuecomment-1986109072) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 <!--END_SECTION:activity-->
