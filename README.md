@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/LifeAdventurer/Moonafly/pull/80) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-2. 💪 Opened PR [#80](https://github.com/LifeAdventurer/Moonafly/pull/80) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-3. 🗣 Commented on [#78](https://github.com/LifeAdventurer/Moonafly/issues/78#issuecomment-1986903921) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-4. 🗣 Commented on [#78](https://github.com/LifeAdventurer/Moonafly/issues/78#issuecomment-1986900762) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-5. ❗ Opened issue [#79](https://github.com/LifeAdventurer/Moonafly/issues/79) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+1. ❌ Closed PR [#84](https://github.com/LifeAdventurer/Moonafly/pull/84) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+2. 🎉 Merged PR [#80](https://github.com/LifeAdventurer/Moonafly/pull/80) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+3. 💪 Opened PR [#80](https://github.com/LifeAdventurer/Moonafly/pull/80) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+4. 🗣 Commented on [#78](https://github.com/LifeAdventurer/Moonafly/issues/78#issuecomment-1986903921) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+5. 🗣 Commented on [#78](https://github.com/LifeAdventurer/Moonafly/issues/78#issuecomment-1986900762) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
 <!--END_SECTION:activity-->
