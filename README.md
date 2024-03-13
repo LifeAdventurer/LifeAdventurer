@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/TFcis/NTOJ/pull/50) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🗣 Commented on [#40](https://github.com/TFcis/NTOJ/issues/40#issuecomment-1988435646) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. 🎉 Merged PR [#90](https://github.com/LifeAdventurer/Moonafly/pull/90) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-4. 💪 Opened PR [#90](https://github.com/LifeAdventurer/Moonafly/pull/90) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-5. 🔒 Closed issue [#78](https://github.com/LifeAdventurer/Moonafly/issues/78) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+1. 💪 Opened PR [#51](https://github.com/TFcis/NTOJ/pull/51) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 💪 Opened PR [#50](https://github.com/TFcis/NTOJ/pull/50) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 🗣 Commented on [#40](https://github.com/TFcis/NTOJ/issues/40#issuecomment-1988435646) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. 🎉 Merged PR [#90](https://github.com/LifeAdventurer/Moonafly/pull/90) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+5. 💪 Opened PR [#90](https://github.com/LifeAdventurer/Moonafly/pull/90) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
 <!--END_SECTION:activity-->
