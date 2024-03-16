@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/TFcis/NTOJ/pull/53) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🔒 Closed issue [#6](https://github.com/LifeAdventurer/patient-diet-recorder/issues/6) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-3. 🎉 Merged PR [#8](https://github.com/LifeAdventurer/patient-diet-recorder/pull/8) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-4. ❗ Opened issue [#7](https://github.com/LifeAdventurer/patient-diet-recorder/issues/7) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-5. ❗ Opened issue [#6](https://github.com/LifeAdventurer/patient-diet-recorder/issues/6) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+1. ❗ Opened issue [#9](https://github.com/LifeAdventurer/patient-diet-recorder/issues/9) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+2. 🔒 Closed issue [#5](https://github.com/LifeAdventurer/patient-diet-recorder/issues/5) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+3. 💪 Opened PR [#53](https://github.com/TFcis/NTOJ/pull/53) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. 🔒 Closed issue [#6](https://github.com/LifeAdventurer/patient-diet-recorder/issues/6) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+5. 🎉 Merged PR [#8](https://github.com/LifeAdventurer/patient-diet-recorder/pull/8) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
 <!--END_SECTION:activity-->
