@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/LifeAdventurer/patient-diet-recorder/issues/9) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-2. 🎉 Merged PR [#11](https://github.com/LifeAdventurer/patient-diet-recorder/pull/11) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-3. ❗ Opened issue [#9](https://github.com/LifeAdventurer/patient-diet-recorder/issues/9) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-4. 🔒 Closed issue [#5](https://github.com/LifeAdventurer/patient-diet-recorder/issues/5) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-5. 💪 Opened PR [#53](https://github.com/TFcis/NTOJ/pull/53) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+1. ❗ Opened issue [#12](https://github.com/LifeAdventurer/patient-diet-recorder/issues/12) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+2. 🔒 Closed issue [#9](https://github.com/LifeAdventurer/patient-diet-recorder/issues/9) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+3. 🎉 Merged PR [#11](https://github.com/LifeAdventurer/patient-diet-recorder/pull/11) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+4. ❗ Opened issue [#9](https://github.com/LifeAdventurer/patient-diet-recorder/issues/9) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+5. 🔒 Closed issue [#5](https://github.com/LifeAdventurer/patient-diet-recorder/issues/5) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
 <!--END_SECTION:activity-->
