@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/LifeAdventurer/patient-diet-recorder/issues/19#issuecomment-2017475081) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-2. 🔒 Closed issue [#19](https://github.com/LifeAdventurer/patient-diet-recorder/issues/19) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-3. ❗ Opened issue [#23](https://github.com/LifeAdventurer/patient-diet-recorder/issues/23) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-4. 🔒 Closed issue [#21](https://github.com/LifeAdventurer/patient-diet-recorder/issues/21) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-5. ❗ Opened issue [#93](https://github.com/LifeAdventurer/Moonafly/issues/93) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+1. 🗣 Commented on [#12](https://github.com/LifeAdventurer/patient-diet-recorder/issues/12#issuecomment-2017640385) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+2. ❗ Opened issue [#24](https://github.com/LifeAdventurer/patient-diet-recorder/issues/24) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+3. 🗣 Commented on [#19](https://github.com/LifeAdventurer/patient-diet-recorder/issues/19#issuecomment-2017475081) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+4. 🔒 Closed issue [#19](https://github.com/LifeAdventurer/patient-diet-recorder/issues/19) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+5. ❗ Opened issue [#23](https://github.com/LifeAdventurer/patient-diet-recorder/issues/23) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
 <!--END_SECTION:activity-->
