@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/LifeAdventurer/patient-diet-recorder/issues/7#issuecomment-2016849733) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-2. ❗ Opened issue [#20](https://github.com/LifeAdventurer/patient-diet-recorder/issues/20) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-3. ❗ Opened issue [#19](https://github.com/LifeAdventurer/patient-diet-recorder/issues/19) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-4. 🗣 Commented on [#18](https://github.com/LifeAdventurer/patient-diet-recorder/issues/18#issuecomment-2016524438) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-5. 🔒 Closed issue [#18](https://github.com/LifeAdventurer/patient-diet-recorder/issues/18) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+1. ❗ Opened issue [#22](https://github.com/LifeAdventurer/patient-diet-recorder/issues/22) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+2. ❗ Opened issue [#21](https://github.com/LifeAdventurer/patient-diet-recorder/issues/21) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+3. 🗣 Commented on [#7](https://github.com/LifeAdventurer/patient-diet-recorder/issues/7#issuecomment-2016849733) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+4. ❗ Opened issue [#20](https://github.com/LifeAdventurer/patient-diet-recorder/issues/20) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+5. ❗ Opened issue [#19](https://github.com/LifeAdventurer/patient-diet-recorder/issues/19) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
 <!--END_SECTION:activity-->
