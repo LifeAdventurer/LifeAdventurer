@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#92](https://github.com/LifeAdventurer/Moonafly/issues/92) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-2. 🔒 Closed issue [#31](https://github.com/LifeAdventurer/generators/issues/31) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. 🗣 Commented on [#31](https://github.com/LifeAdventurer/generators/issues/31#issuecomment-2037420755) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-4. 🗣 Commented on [#23](https://github.com/LifeAdventurer/patient-diet-recorder/issues/23#issuecomment-2036306481) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-5. 🔒 Closed issue [#23](https://github.com/LifeAdventurer/patient-diet-recorder/issues/23) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+1. ❌ Closed PR [#36](https://github.com/LifeAdventurer/generators/pull/36) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+2. 🔒 Closed issue [#15](https://github.com/LifeAdventurer/generators/issues/15) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+3. 🔒 Closed issue [#92](https://github.com/LifeAdventurer/Moonafly/issues/92) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+4. 🔒 Closed issue [#31](https://github.com/LifeAdventurer/generators/issues/31) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+5. 🗣 Commented on [#31](https://github.com/LifeAdventurer/generators/issues/31#issuecomment-2037420755) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
 <!--END_SECTION:activity-->
