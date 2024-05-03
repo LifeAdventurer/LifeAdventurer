@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#36](https://github.com/LifeAdventurer/patient-diet-recorder/issues/36) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-2. ❗ Opened issue [#35](https://github.com/LifeAdventurer/patient-diet-recorder/issues/35) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-3. 🗣 Commented on [#34](https://github.com/LifeAdventurer/patient-diet-recorder/issues/34#issuecomment-2090274917) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-4. ❗ Opened issue [#34](https://github.com/LifeAdventurer/patient-diet-recorder/issues/34) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-5. ❗ Opened issue [#33](https://github.com/LifeAdventurer/patient-diet-recorder/issues/33) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+1. ❗ Opened issue [#104](https://github.com/LifeAdventurer/Moonafly/issues/104) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+2. ❗ Opened issue [#36](https://github.com/LifeAdventurer/patient-diet-recorder/issues/36) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+3. ❗ Opened issue [#35](https://github.com/LifeAdventurer/patient-diet-recorder/issues/35) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+4. 🗣 Commented on [#34](https://github.com/LifeAdventurer/patient-diet-recorder/issues/34#issuecomment-2090274917) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+5. ❗ Opened issue [#34](https://github.com/LifeAdventurer/patient-diet-recorder/issues/34) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
 <!--END_SECTION:activity-->
