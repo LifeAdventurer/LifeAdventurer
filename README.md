@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#30](https://github.com/LifeAdventurer/patient-diet-recorder/issues/30) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-2. 🗣 Commented on [#43](https://github.com/LifeAdventurer/patient-diet-recorder/issues/43#issuecomment-2118859502) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
-3. 🗣 Commented on [#45](https://github.com/LifeAdventurer/Moonafly/issues/45#issuecomment-2112726091) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-4. ❗ Opened issue [#105](https://github.com/LifeAdventurer/Moonafly/issues/105) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-5. 🔒 Closed issue [#41](https://github.com/LifeAdventurer/patient-diet-recorder/issues/41) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+1. 🎉 Merged PR [#61](https://github.com/TFcis/NTOJ/pull/61) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 🔓 Reopened issue [#30](https://github.com/LifeAdventurer/patient-diet-recorder/issues/30) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+3. 🗣 Commented on [#43](https://github.com/LifeAdventurer/patient-diet-recorder/issues/43#issuecomment-2118859502) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+4. 🗣 Commented on [#45](https://github.com/LifeAdventurer/Moonafly/issues/45#issuecomment-2112726091) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+5. ❗ Opened issue [#105](https://github.com/LifeAdventurer/Moonafly/issues/105) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
 <!--END_SECTION:activity-->
