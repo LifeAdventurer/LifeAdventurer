@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/TFcis/NTOJ/pull/71) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🎉 Merged PR [#70](https://github.com/TFcis/NTOJ/pull/70) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. 🎉 Merged PR [#69](https://github.com/TFcis/NTOJ/pull/69) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-4. 🎉 Merged PR [#68](https://github.com/TFcis/NTOJ/pull/68) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-5. 🔒 Closed issue [#39](https://github.com/LifeAdventurer/patient-diet-recorder/issues/39) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+1. 🗣 Commented on [#421](https://github.com/stevearc/conform.nvim/pull/421#issuecomment-2149223879) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
+2. 🎉 Merged PR [#71](https://github.com/TFcis/NTOJ/pull/71) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 🎉 Merged PR [#70](https://github.com/TFcis/NTOJ/pull/70) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. 🎉 Merged PR [#69](https://github.com/TFcis/NTOJ/pull/69) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+5. 🎉 Merged PR [#68](https://github.com/TFcis/NTOJ/pull/68) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
 <!--END_SECTION:activity-->
