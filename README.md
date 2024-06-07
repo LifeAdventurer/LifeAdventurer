@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#252](https://github.com/stevearc/conform.nvim/issues/252#issuecomment-2151816711) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
-2. 🎉 Merged PR [#72](https://github.com/TFcis/NTOJ/pull/72) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. 🗣 Commented on [#252](https://github.com/stevearc/conform.nvim/issues/252#issuecomment-2151470019) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
-4. 🗣 Commented on [#421](https://github.com/stevearc/conform.nvim/pull/421#issuecomment-2149223879) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
-5. 🎉 Merged PR [#71](https://github.com/TFcis/NTOJ/pull/71) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+1. ❌ Closed PR [#3](https://github.com/LifeAdventurer/monkeytype/pull/3) in [LifeAdventurer/monkeytype](https://github.com/LifeAdventurer/monkeytype)
+2. ❌ Closed PR [#2](https://github.com/LifeAdventurer/monkeytype/pull/2) in [LifeAdventurer/monkeytype](https://github.com/LifeAdventurer/monkeytype)
+3. 🗣 Commented on [#252](https://github.com/stevearc/conform.nvim/issues/252#issuecomment-2151816711) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
+4. 🎉 Merged PR [#72](https://github.com/TFcis/NTOJ/pull/72) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+5. 🗣 Commented on [#252](https://github.com/stevearc/conform.nvim/issues/252#issuecomment-2151470019) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
 <!--END_SECTION:activity-->
