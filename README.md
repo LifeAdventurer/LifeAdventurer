@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/TFcis/NTOJ/pull/76) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 💪 Opened PR [#75](https://github.com/TFcis/NTOJ/pull/75) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. ❌ Closed PR [#74](https://github.com/TFcis/NTOJ/pull/74) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-4. 🗣 Commented on [#252](https://github.com/stevearc/conform.nvim/issues/252#issuecomment-2155868461) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
-5. ❌ Closed PR [#3](https://github.com/LifeAdventurer/monkeytype/pull/3) in [LifeAdventurer/monkeytype](https://github.com/LifeAdventurer/monkeytype)
+1. 🎉 Merged PR [#74](https://github.com/TFcis/NTOJ/pull/74) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. ❌ Reopened PR [#74](https://github.com/TFcis/NTOJ/pull/74) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 💪 Opened PR [#76](https://github.com/TFcis/NTOJ/pull/76) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. 💪 Opened PR [#75](https://github.com/TFcis/NTOJ/pull/75) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+5. ❌ Closed PR [#74](https://github.com/TFcis/NTOJ/pull/74) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
 <!--END_SECTION:activity-->
