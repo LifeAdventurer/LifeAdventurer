@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/TFcis/NTOJ/pull/77) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🔒 Closed issue [#37](https://github.com/LifeAdventurer/generators/issues/37) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. ❗ Opened issue [#37](https://github.com/LifeAdventurer/generators/issues/37) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-4. 🎉 Merged PR [#74](https://github.com/TFcis/NTOJ/pull/74) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-5. ❌ Reopened PR [#74](https://github.com/TFcis/NTOJ/pull/74) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+1. 💪 Opened PR [#78](https://github.com/TFcis/NTOJ/pull/78) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 🎉 Merged PR [#77](https://github.com/TFcis/NTOJ/pull/77) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 🔒 Closed issue [#37](https://github.com/LifeAdventurer/generators/issues/37) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+4. ❗ Opened issue [#37](https://github.com/LifeAdventurer/generators/issues/37) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+5. 🎉 Merged PR [#74](https://github.com/TFcis/NTOJ/pull/74) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
 <!--END_SECTION:activity-->
