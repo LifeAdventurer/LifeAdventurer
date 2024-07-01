@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/LifeAdventurer/generators/pull/39) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-2. 💪 Opened PR [#39](https://github.com/LifeAdventurer/generators/pull/39) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. 🎉 Merged PR [#1](https://github.com/LifeAdventurer/mkdocs-material-template/pull/1) in [LifeAdventurer/mkdocs-material-template](https://github.com/LifeAdventurer/mkdocs-material-template)
-4. 🎉 Merged PR [#81](https://github.com/TFcis/NTOJ/pull/81) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-5. 🎉 Merged PR [#80](https://github.com/TFcis/NTOJ/pull/80) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+1. 🗣 Commented on [#41](https://github.com/LifeAdventurer/generators/issues/41#issuecomment-2200557756) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+2. ❗ Opened issue [#41](https://github.com/LifeAdventurer/generators/issues/41) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+3. ❗ Opened issue [#40](https://github.com/LifeAdventurer/generators/issues/40) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+4. 🎉 Merged PR [#39](https://github.com/LifeAdventurer/generators/pull/39) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+5. 💪 Opened PR [#39](https://github.com/LifeAdventurer/generators/pull/39) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
 <!--END_SECTION:activity-->
