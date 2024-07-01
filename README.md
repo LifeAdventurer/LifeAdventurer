@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/TFcis/NTOJ/pull/81) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🎉 Merged PR [#80](https://github.com/TFcis/NTOJ/pull/80) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. 💪 Opened PR [#79](https://github.com/TFcis/NTOJ/pull/79) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-4. 💪 Opened PR [#78](https://github.com/TFcis/NTOJ/pull/78) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-5. 🎉 Merged PR [#77](https://github.com/TFcis/NTOJ/pull/77) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+1. 🎉 Merged PR [#1](https://github.com/LifeAdventurer/mkdocs-material-template/pull/1) in [LifeAdventurer/mkdocs-material-template](https://github.com/LifeAdventurer/mkdocs-material-template)
+2. 🎉 Merged PR [#81](https://github.com/TFcis/NTOJ/pull/81) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 🎉 Merged PR [#80](https://github.com/TFcis/NTOJ/pull/80) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. 💪 Opened PR [#79](https://github.com/TFcis/NTOJ/pull/79) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+5. 💪 Opened PR [#78](https://github.com/TFcis/NTOJ/pull/78) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
 <!--END_SECTION:activity-->
