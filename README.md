@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#106](https://github.com/LifeAdventurer/Moonafly/pull/106) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
-2. 🎉 Merged PR [#3](https://github.com/LifeAdventurer/mkdocs-material-template/pull/3) in [LifeAdventurer/mkdocs-material-template](https://github.com/LifeAdventurer/mkdocs-material-template)
-3. ❗ Opened issue [#42](https://github.com/LifeAdventurer/generators/issues/42) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-4. 🗣 Commented on [#41](https://github.com/LifeAdventurer/generators/issues/41#issuecomment-2200557756) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-5. ❗ Opened issue [#41](https://github.com/LifeAdventurer/generators/issues/41) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+1. 💪 Opened PR [#83](https://github.com/TFcis/NTOJ/pull/83) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 🎉 Merged PR [#106](https://github.com/LifeAdventurer/Moonafly/pull/106) in [LifeAdventurer/Moonafly](https://github.com/LifeAdventurer/Moonafly)
+3. 🎉 Merged PR [#3](https://github.com/LifeAdventurer/mkdocs-material-template/pull/3) in [LifeAdventurer/mkdocs-material-template](https://github.com/LifeAdventurer/mkdocs-material-template)
+4. ❗ Opened issue [#42](https://github.com/LifeAdventurer/generators/issues/42) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+5. 🗣 Commented on [#41](https://github.com/LifeAdventurer/generators/issues/41#issuecomment-2200557756) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
 <!--END_SECTION:activity-->
