@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#43](https://github.com/LifeAdventurer/generators/issues/43) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-2. 🔒 Closed issue [#43](https://github.com/LifeAdventurer/generators/issues/43) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. 🔒 Closed issue [#6](https://github.com/TFcis/NTOJ/issues/6) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-4. 🎉 Merged PR [#85](https://github.com/TFcis/NTOJ/pull/85) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-5. 🎉 Merged PR [#45](https://github.com/LifeAdventurer/patient-diet-recorder/pull/45) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+1. 🔒 Closed issue [#88](https://github.com/TFcis/NTOJ/issues/88) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 🔓 Reopened issue [#43](https://github.com/LifeAdventurer/generators/issues/43) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+3. 🔒 Closed issue [#43](https://github.com/LifeAdventurer/generators/issues/43) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+4. 🔒 Closed issue [#6](https://github.com/TFcis/NTOJ/issues/6) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+5. 🎉 Merged PR [#85](https://github.com/TFcis/NTOJ/pull/85) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
 <!--END_SECTION:activity-->
