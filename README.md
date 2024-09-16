@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#252](https://github.com/stevearc/conform.nvim/issues/252#issuecomment-2342723733) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
-2. 🔒 Closed issue [#705](https://github.com/joelshepherd/tabliss/issues/705) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
-3. ❗ Opened issue [#706](https://github.com/joelshepherd/tabliss/issues/706) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
-4. ❗ Opened issue [#705](https://github.com/joelshepherd/tabliss/issues/705) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
-5. 🔒 Closed issue [#88](https://github.com/TFcis/NTOJ/issues/88) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+1. ❗ Opened issue [#93](https://github.com/TFcis/NTOJ/issues/93) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 🗣 Commented on [#252](https://github.com/stevearc/conform.nvim/issues/252#issuecomment-2342723733) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
+3. 🔒 Closed issue [#705](https://github.com/joelshepherd/tabliss/issues/705) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
+4. ❗ Opened issue [#706](https://github.com/joelshepherd/tabliss/issues/706) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
+5. ❗ Opened issue [#705](https://github.com/joelshepherd/tabliss/issues/705) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
 <!--END_SECTION:activity-->
