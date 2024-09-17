@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/TFcis/NTOJ/issues/93#issuecomment-2354458251) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. ❗ Opened issue [#93](https://github.com/TFcis/NTOJ/issues/93) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. 🗣 Commented on [#252](https://github.com/stevearc/conform.nvim/issues/252#issuecomment-2342723733) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
-4. 🔒 Closed issue [#705](https://github.com/joelshepherd/tabliss/issues/705) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
-5. ❗ Opened issue [#706](https://github.com/joelshepherd/tabliss/issues/706) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
+1. ❗ Opened issue [#46](https://github.com/LifeAdventurer/patient-diet-recorder/issues/46) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+2. 🗣 Commented on [#93](https://github.com/TFcis/NTOJ/issues/93#issuecomment-2354458251) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. ❗ Opened issue [#93](https://github.com/TFcis/NTOJ/issues/93) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. 🗣 Commented on [#252](https://github.com/stevearc/conform.nvim/issues/252#issuecomment-2342723733) in [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim)
+5. 🔒 Closed issue [#705](https://github.com/joelshepherd/tabliss/issues/705) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
 <!--END_SECTION:activity-->
