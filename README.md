@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/LifeAdventurer/typing-contest-bot/issues/3) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-2. 🔒 Closed issue [#2](https://github.com/LifeAdventurer/typing-contest-bot/issues/2) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-3. ❗ Opened issue [#3](https://github.com/LifeAdventurer/typing-contest-bot/issues/3) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-4. ❗ Opened issue [#2](https://github.com/LifeAdventurer/typing-contest-bot/issues/2) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-5. ❗ Opened issue [#46](https://github.com/LifeAdventurer/patient-diet-recorder/issues/46) in [LifeAdventurer/patient-diet-recorder](https://github.com/LifeAdventurer/patient-diet-recorder)
+1. ❗ Opened issue [#5](https://github.com/LifeAdventurer/typing-contest-bot/issues/5) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+2. ❗ Opened issue [#4](https://github.com/LifeAdventurer/typing-contest-bot/issues/4) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+3. 🔒 Closed issue [#3](https://github.com/LifeAdventurer/typing-contest-bot/issues/3) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+4. 🔒 Closed issue [#2](https://github.com/LifeAdventurer/typing-contest-bot/issues/2) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+5. ❗ Opened issue [#3](https://github.com/LifeAdventurer/typing-contest-bot/issues/3) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
 <!--END_SECTION:activity-->
