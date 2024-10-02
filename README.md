@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/LifeAdventurer/typing-contest-bot/issues/7#issuecomment-2387713028) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-2. 🔒 Closed issue [#7](https://github.com/LifeAdventurer/typing-contest-bot/issues/7) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-3. ❗ Opened issue [#8](https://github.com/LifeAdventurer/typing-contest-bot/issues/8) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-4. 🔒 Closed issue [#6](https://github.com/LifeAdventurer/typing-contest-bot/issues/6) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-5. 🔒 Closed issue [#4](https://github.com/LifeAdventurer/typing-contest-bot/issues/4) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+1. 🚀 Published release [Release version 1.0.0](https://github.com/LifeAdventurer/typing-contest-bot/releases/tag/v1.0.0) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+2. 🗣 Commented on [#8](https://github.com/LifeAdventurer/typing-contest-bot/issues/8#issuecomment-2388958208) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+3. 🔒 Closed issue [#8](https://github.com/LifeAdventurer/typing-contest-bot/issues/8) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+4. 🗣 Commented on [#7](https://github.com/LifeAdventurer/typing-contest-bot/issues/7#issuecomment-2387713028) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+5. 🔒 Closed issue [#7](https://github.com/LifeAdventurer/typing-contest-bot/issues/7) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
 <!--END_SECTION:activity-->
