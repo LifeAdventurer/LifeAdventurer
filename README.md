@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/LifeAdventurer/typing-contest-bot/releases/tag/v1.1.0) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-2. 🔒 Closed issue [#10](https://github.com/LifeAdventurer/typing-contest-bot/issues/10) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-3. 🚀 Published release [v1.0.1](https://github.com/LifeAdventurer/typing-contest-bot/releases/tag/v1.0.1) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-4. ❗ Opened issue [#10](https://github.com/LifeAdventurer/typing-contest-bot/issues/10) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
-5. ❗ Opened issue [#9](https://github.com/LifeAdventurer/typing-contest-bot/issues/9) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+1. 🔒 Closed issue [#46](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/46) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+2. 🚀 Published release [v1.1.0](https://github.com/LifeAdventurer/typing-contest-bot/releases/tag/v1.1.0) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+3. 🔒 Closed issue [#10](https://github.com/LifeAdventurer/typing-contest-bot/issues/10) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+4. 🚀 Published release [v1.0.1](https://github.com/LifeAdventurer/typing-contest-bot/releases/tag/v1.0.1) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
+5. ❗ Opened issue [#10](https://github.com/LifeAdventurer/typing-contest-bot/issues/10) in [LifeAdventurer/typing-contest-bot](https://github.com/LifeAdventurer/typing-contest-bot)
 <!--END_SECTION:activity-->
