@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3919](https://github.com/rust-lang/book/issues/3919#issuecomment-2405441142) in [rust-lang/book](https://github.com/rust-lang/book)
-2. 🔒 Closed issue [#43](https://github.com/LifeAdventurer/generators/issues/43) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. 🎉 Merged PR [#95](https://github.com/TFcis/NTOJ/pull/95) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-4. 🎉 Merged PR [#94](https://github.com/TFcis/NTOJ/pull/94) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-5. 🔒 Closed issue [#46](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/46) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+1. 🎉 Merged PR [#96](https://github.com/TFcis/NTOJ/pull/96) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 🗣 Commented on [#96](https://github.com/TFcis/NTOJ/pull/96#issuecomment-2406588566) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 🗣 Commented on [#3919](https://github.com/rust-lang/book/issues/3919#issuecomment-2405441142) in [rust-lang/book](https://github.com/rust-lang/book)
+4. 🔒 Closed issue [#43](https://github.com/LifeAdventurer/generators/issues/43) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+5. 🎉 Merged PR [#95](https://github.com/TFcis/NTOJ/pull/95) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
 <!--END_SECTION:activity-->
