@@ -45,9 +45,9 @@ I'm a proactive developer, avid researcher and competitive programmer dedicated 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/LifeAdventurer/generators/issues/13) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-2. 💪 Opened PR [#4066](https://github.com/rust-lang/book/pull/4066) in [rust-lang/book](https://github.com/rust-lang/book)
-3. 🗣 Commented on [#3919](https://github.com/rust-lang/book/issues/3919#issuecomment-2407525771) in [rust-lang/book](https://github.com/rust-lang/book)
-4. 🗣 Commented on [#3919](https://github.com/rust-lang/book/issues/3919#issuecomment-2407487447) in [rust-lang/book](https://github.com/rust-lang/book)
-5. 🎉 Merged PR [#97](https://github.com/TFcis/NTOJ/pull/97) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+1. 🗣 Commented on [#3919](https://github.com/rust-lang/book/issues/3919#issuecomment-2414063855) in [rust-lang/book](https://github.com/rust-lang/book)
+2. 🔒 Closed issue [#13](https://github.com/LifeAdventurer/generators/issues/13) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+3. 💪 Opened PR [#4066](https://github.com/rust-lang/book/pull/4066) in [rust-lang/book](https://github.com/rust-lang/book)
+4. 🗣 Commented on [#3919](https://github.com/rust-lang/book/issues/3919#issuecomment-2407525771) in [rust-lang/book](https://github.com/rust-lang/book)
+5. 🗣 Commented on [#3919](https://github.com/rust-lang/book/issues/3919#issuecomment-2407487447) in [rust-lang/book](https://github.com/rust-lang/book)
 <!--END_SECTION:activity-->
