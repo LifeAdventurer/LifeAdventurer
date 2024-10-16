@@ -38,9 +38,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 <p>
 
 <a href="https://github.com/lifeadventurer">
-  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&disable_animations=true&hide_border=true"/>
-  <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&hide=css,HTML,shell,batchfile&langs_count=10&theme=tokyonight&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5&disable_animations=true&hide_border=true"/> <!-- hide css, html if I have more languages && the percentage -->
- <img width="380em" src="https://streak-stats.demolab.com/?user=lifeadventurer&theme=tokyonight&disable_animations=true&hide_border=true"/>
+  <img width="345em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&disable_animations=true&hide_border=true"/>
+  <img width="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&hide=css,HTML,shell,batchfile&langs_count=10&theme=tokyonight&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5&disable_animations=true&hide_border=true"/> <!-- hide css, html if I have more languages && the percentage -->
+ <img width="410em" src="https://streak-stats.demolab.com/?user=lifeadventurer&theme=tokyonight&disable_animations=true&hide_border=true"/>
 </a>
 
 </p>
