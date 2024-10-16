@@ -4,7 +4,7 @@
 
 ## About
 
-I'm a proactive developer, avid researcher, and competitive programmer dedicated to pushing the boundaries of coding excellence.
+I'm a passionate developer driven by curiosity and a relentless desire to innovate. With a keen interest in exploring the latest technological advancements, I thrive on solving complex challenges and building scalable solutions. My journey is one of constant learning, from deep research to hands-on experimentation, and I always strive to push the boundaries of what's possible in the coding world. I'm committed to creating impactful, future-forward solutions that marry technology with creativity.
 
 ## Skills
 
