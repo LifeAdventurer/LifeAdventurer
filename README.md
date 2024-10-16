@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Moon)](https://git.io/typing-svg)
-=====================
+# Hello!
 
-### About
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&width=435&lines=I'm+Life+Adventurer!;Talk+is+cheap.+Show+me+the+code.;Pioneering+a+future+where+technology+and+creativity+coexist+in+harmony.)](https://git.io/typing-svg)
+
+## About
 
 I'm a proactive developer, avid researcher, and competitive programmer dedicated to pushing the boundaries of coding excellence.
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -33,7 +34,7 @@ I'm a proactive developer, avid researcher, and competitive programmer dedicated
 <!-- 
 <p align="left"> <a href="https://www.github.com/Lifeadventurer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 -->
-### My GitHub Stats
+## My GitHub Stats
 <p>
 
 <a href="https://github.com/lifeadventurer">
