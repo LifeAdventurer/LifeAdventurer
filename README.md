@@ -48,9 +48,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/37#issuecomment-2425037389) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
-2. 🗣 Commented on [#38](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/38#issuecomment-2424739704) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
-3. 🗣 Commented on [#3919](https://github.com/rust-lang/book/issues/3919#issuecomment-2414063855) in [rust-lang/book](https://github.com/rust-lang/book)
-4. 🔒 Closed issue [#13](https://github.com/LifeAdventurer/generators/issues/13) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-5. 💪 Opened PR [#4066](https://github.com/rust-lang/book/pull/4066) in [rust-lang/book](https://github.com/rust-lang/book)
+1. ❗ Opened issue [#47](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/47) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+2. 🔒 Closed issue [#43](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/43) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+3. 🗣 Commented on [#37](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/37#issuecomment-2425037389) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+4. 🗣 Commented on [#38](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/38#issuecomment-2424739704) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+5. 🗣 Commented on [#3919](https://github.com/rust-lang/book/issues/3919#issuecomment-2414063855) in [rust-lang/book](https://github.com/rust-lang/book)
 <!--END_SECTION:activity-->
