@@ -33,7 +33,13 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="36" height="36" alt="AWS"/></a>
 </p>
 
+### AI/ML
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PyTorch-Dark.svg" width="36" height="36" alt="PyTorch"/></a>
+
+
 ### Tools & Technologies
+
 <p align="left">
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LaTeX-Dark.svg" width="36" height="36" alt="LaTeX"/></a>
   <a href="https://discord.com/developers/docs/intro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DiscordBots.svg" width="36" height="36" alt="DiscordBots"/></a>
