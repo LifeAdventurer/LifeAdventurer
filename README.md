@@ -8,13 +8,20 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 
 ## Skills
 
+### Programming Languages
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg" width="36" height="36" alt="Go" /></a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Rust.svg" width="36" height="36" alt="Rust"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" width="36" height="36" alt="TypeScript" /></a>
+</p>
+
+### Web Development & Framworks
+
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" width="36" height="36" alt="CSS3" /></a>
@@ -23,6 +30,10 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" width="36" height="36" alt="Vue" /></a>
   <a href="https://palletsprojects.com/projects/flask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Flask-Dark.svg" width="36" height="36" alt="Flask" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/FastAPI.svg" width="36" height="36" alt="FastAPI" /></a>
+</p>
+
+### Tools & Technologies
+<p align="left">
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LaTeX-Dark.svg" width="36" height="36" alt="LaTeX"/></a>
   <a href="https://discord.com/developers/docs/intro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DiscordBots.svg" width="36" height="36" alt="DiscordBots"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width="36" height="36" alt="Git" /></a>
