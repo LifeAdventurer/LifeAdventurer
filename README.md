@@ -30,6 +30,7 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" width="36" height="36" alt="Vue" /></a>
   <a href="https://palletsprojects.com/projects/flask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Flask-Dark.svg" width="36" height="36" alt="Flask" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/FastAPI.svg" width="36" height="36" alt="FastAPI" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="36" height="36" alt="AWS"/></a>
 </p>
 
 ### Tools & Technologies
