@@ -67,9 +67,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#69](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/69) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
-2. ❗ Opened issue [#68](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/68) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
-3. ❗ Opened issue [#67](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/67) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
-4. 🎉 Merged PR [#98](https://github.com/TFcis/NTOJ/pull/98) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-5. ❗ Opened issue [#65](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/65) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+1. 🔒 Closed issue [#64](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/64) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+2. 🔒 Closed issue [#66](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/66) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+3. ❗ Opened issue [#69](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/69) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+4. ❗ Opened issue [#68](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/68) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
+5. ❗ Opened issue [#67](https://github.com/LifeAdventurer/patient-input-output-recorder/issues/67) in [LifeAdventurer/patient-input-output-recorder](https://github.com/LifeAdventurer/patient-input-output-recorder)
 <!--END_SECTION:activity-->
