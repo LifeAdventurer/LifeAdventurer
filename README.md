@@ -69,9 +69,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/LifeAdventurer/patient-intake-output-recorder/releases/tag/v1.1.0) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-2. 🔒 Closed issue [#42](https://github.com/LifeAdventurer/generators/issues/42) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. 🔒 Closed issue [#40](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/40) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-4. 🔒 Closed issue [#58](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/58) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-5. 🎉 Merged PR [#99](https://github.com/TFcis/NTOJ/pull/99) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+1. 🗣 Commented on [#36](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/36#issuecomment-2466719425) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+2. 🔒 Closed issue [#36](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/36) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+3. 🚀 Published release [v1.1.0](https://github.com/LifeAdventurer/patient-intake-output-recorder/releases/tag/v1.1.0) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+4. 🔒 Closed issue [#42](https://github.com/LifeAdventurer/generators/issues/42) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+5. 🔒 Closed issue [#40](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/40) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
 <!--END_SECTION:activity-->
