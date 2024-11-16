@@ -69,9 +69,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1562](https://github.com/htop-dev/htop/issues/1562) in [htop-dev/htop](https://github.com/htop-dev/htop)
-2. 🎉 Merged PR [#44](https://github.com/LifeAdventurer/generators/pull/44) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. ❗ Opened issue [#1562](https://github.com/htop-dev/htop/issues/1562) in [htop-dev/htop](https://github.com/htop-dev/htop)
-4. 🗣 Commented on [#50](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/50#issuecomment-2466767818) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-5. 🔒 Closed issue [#50](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/50) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+1. 🗣 Commented on [#414](https://github.com/jaimeadf/BetterDiscordPlugins/issues/414#issuecomment-2480594331) in [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins)
+2. 🔒 Closed issue [#1562](https://github.com/htop-dev/htop/issues/1562) in [htop-dev/htop](https://github.com/htop-dev/htop)
+3. 🎉 Merged PR [#44](https://github.com/LifeAdventurer/generators/pull/44) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+4. ❗ Opened issue [#1562](https://github.com/htop-dev/htop/issues/1562) in [htop-dev/htop](https://github.com/htop-dev/htop)
+5. 🗣 Commented on [#50](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/50#issuecomment-2466767818) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
 <!--END_SECTION:activity-->
