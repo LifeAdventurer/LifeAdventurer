@@ -1,6 +1,6 @@
 # Hello!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&width=435&lines=I'm+Life+Adventurer!;Talk+is+cheap.+Show+me+the+code.;Pioneering+a+future+where+technology+and+creativity+coexist+in+harmony.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&width=1000&lines=I'm+Life+Adventurer!;Talk+is+cheap.+Show+me+the+code.;Pioneering+a+future+where+technology+and+creativity+coexist+in+harmony.)](https://git.io/typing-svg)
 
 ## About
 
