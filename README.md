@@ -20,7 +20,7 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" width="36" height="36" alt="JavaScript" /></a>
 </p>
 
-### Web Development & Framworks
+### Web Development & Frameworks
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" width="36" height="36" alt="TypeScript" /></a>
