@@ -32,7 +32,6 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" width="32" height="32" alt="Vue" /></a>
   <a href="https://palletsprojects.com/projects/flask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Flask-Dark.svg" width="32" height="32" alt="Flask" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/FastAPI.svg" width="32" height="32" alt="FastAPI" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="32" height="32" alt="AWS"/></a>
 </p>
 
 ### AI/ML
@@ -42,6 +41,7 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ### DevOps & Cloud
 
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="32" height="32" alt="AWS"/></a>
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Cloudflare-Dark.svg" width="32" height="32" alt="Cloudflare"/></a>
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Nginx.svg" width="32" height="32" alt="Nginx"/></a>
 </p>
