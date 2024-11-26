@@ -39,7 +39,8 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 
 ### AI/ML
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PyTorch-Dark.svg" width="32" height="32" alt="PyTorch"/></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PyTorch-Dark.svg" width="32" height="32" alt="PyTorch"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="32" height="32" alt="HuggingFace"/></a>
 
 ### DevOps & Cloud
 
