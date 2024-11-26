@@ -32,6 +32,7 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" width="32" height="32" alt="Vue" /></a>
   <a href="https://palletsprojects.com/projects/flask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Flask-Dark.svg" width="32" height="32" alt="Flask" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/FastAPI.svg" width="32" height="32" alt="FastAPI" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" width="32" height="32" alt="React" /></a>
 </p>
 
 ### AI/ML
