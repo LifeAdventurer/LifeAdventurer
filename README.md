@@ -39,6 +39,11 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PyTorch-Dark.svg" width="32" height="32" alt="PyTorch"/></a>
 
+### DevOps & Cloud
+
+<p align="left">
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Cloudflare-Dark.svg" width="32" height="32" alt="Cloudflare"/></a>
+</p>
 
 ### Tools & Technologies
 
