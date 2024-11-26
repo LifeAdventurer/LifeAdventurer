@@ -43,6 +43,7 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 
 <p align="left">
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Cloudflare-Dark.svg" width="32" height="32" alt="Cloudflare"/></a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Nginx.svg" width="32" height="32" alt="Nginx"/></a>
 </p>
 
 ### Tools & Technologies
