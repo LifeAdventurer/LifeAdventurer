@@ -49,6 +49,7 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ### Tools & Technologies
 
 <p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" width="32" height="32" alt="VSCode"/></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LaTeX-Dark.svg" width="32" height="32" alt="LaTeX"/></a>
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Markdown-Dark.svg" width="32" height="32" alt="Markdown"/></a>
   <a href="https://discord.com/developers/docs/intro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DiscordBots.svg" width="32" height="32" alt="DiscordBots"/></a>
