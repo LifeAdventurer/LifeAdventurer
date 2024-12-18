@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/TFcis/NTOJ/pull/101#issuecomment-2548225440) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🎉 Merged PR [#100](https://github.com/TFcis/NTOJ/pull/100) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. 🗣 Commented on [#100](https://github.com/TFcis/NTOJ/pull/100#issuecomment-2543445051) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-4. 🎉 Merged PR [#45](https://github.com/LifeAdventurer/generators/pull/45) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-5. 🗣 Commented on [#45](https://github.com/LifeAdventurer/generators/pull/45#issuecomment-2539029661) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+1. 🎉 Merged PR [#101](https://github.com/TFcis/NTOJ/pull/101) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 🗣 Commented on [#101](https://github.com/TFcis/NTOJ/pull/101#issuecomment-2548225440) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 🎉 Merged PR [#100](https://github.com/TFcis/NTOJ/pull/100) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. 🗣 Commented on [#100](https://github.com/TFcis/NTOJ/pull/100#issuecomment-2543445051) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+5. 🎉 Merged PR [#45](https://github.com/LifeAdventurer/generators/pull/45) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
 <!--END_SECTION:activity-->
