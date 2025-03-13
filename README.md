@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/TFcis/NTOJ/pull/111#issuecomment-2720189315) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🎉 Merged PR [#67](https://github.com/LifeAdventurer/generators/pull/67) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-3. 🎉 Merged PR [#66](https://github.com/LifeAdventurer/generators/pull/66) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-4. 💪 Opened PR [#65](https://github.com/LifeAdventurer/generators/pull/65) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-5. 🎉 Merged PR [#62](https://github.com/LifeAdventurer/generators/pull/62) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+1. 🎉 Merged PR [#111](https://github.com/TFcis/NTOJ/pull/111) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 🗣 Commented on [#111](https://github.com/TFcis/NTOJ/pull/111#issuecomment-2720189315) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 🎉 Merged PR [#67](https://github.com/LifeAdventurer/generators/pull/67) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+4. 🎉 Merged PR [#66](https://github.com/LifeAdventurer/generators/pull/66) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+5. 💪 Opened PR [#65](https://github.com/LifeAdventurer/generators/pull/65) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
 <!--END_SECTION:activity-->
