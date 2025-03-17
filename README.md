@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/TFcis/NTOJ/pull/116) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🗣 Commented on [#113](https://github.com/TFcis/NTOJ/issues/113#issuecomment-2726178354) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. 🎉 Merged PR [#112](https://github.com/TFcis/NTOJ/pull/112) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-4. 🎉 Merged PR [#114](https://github.com/TFcis/NTOJ/pull/114) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-5. 🗣 Commented on [#112](https://github.com/TFcis/NTOJ/pull/112#issuecomment-2724819160) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+1. ❗ Opened issue [#117](https://github.com/TFcis/NTOJ/issues/117) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+2. 🎉 Merged PR [#116](https://github.com/TFcis/NTOJ/pull/116) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 🗣 Commented on [#113](https://github.com/TFcis/NTOJ/issues/113#issuecomment-2726178354) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. 🎉 Merged PR [#112](https://github.com/TFcis/NTOJ/pull/112) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+5. 🎉 Merged PR [#114](https://github.com/TFcis/NTOJ/pull/114) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
 <!--END_SECTION:activity-->
