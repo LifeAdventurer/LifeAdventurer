@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#119](https://github.com/TFcis/NTOJ/pull/119) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🎉 Merged PR [#118](https://github.com/TFcis/NTOJ/pull/118) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. ❗ Opened issue [#71](https://github.com/LifeAdventurer/generators/issues/71) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-4. 🎉 Merged PR [#5](https://github.com/LifeAdventurer/sentify/pull/5) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
-5. 🎉 Merged PR [#4](https://github.com/LifeAdventurer/sentify/pull/4) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
+1. 🔒 Closed issue [#71](https://github.com/LifeAdventurer/generators/issues/71) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+2. 🎉 Merged PR [#72](https://github.com/LifeAdventurer/generators/pull/72) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+3. 💪 Opened PR [#119](https://github.com/TFcis/NTOJ/pull/119) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. 🎉 Merged PR [#118](https://github.com/TFcis/NTOJ/pull/118) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+5. ❗ Opened issue [#71](https://github.com/LifeAdventurer/generators/issues/71) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
 <!--END_SECTION:activity-->
