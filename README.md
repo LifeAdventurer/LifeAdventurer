@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#73](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/73) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-2. 🎉 Merged PR [#72](https://github.com/LifeAdventurer/patient-intake-output-recorder/pull/72) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-3. ❗ Opened issue [#6](https://github.com/LifeAdventurer/sentify/issues/6) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
-4. 🔒 Closed issue [#71](https://github.com/LifeAdventurer/generators/issues/71) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-5. 🎉 Merged PR [#72](https://github.com/LifeAdventurer/generators/pull/72) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+1. 🎉 Merged PR [#74](https://github.com/LifeAdventurer/patient-intake-output-recorder/pull/74) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+2. ❗ Opened issue [#73](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/73) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+3. 🎉 Merged PR [#72](https://github.com/LifeAdventurer/patient-intake-output-recorder/pull/72) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+4. ❗ Opened issue [#6](https://github.com/LifeAdventurer/sentify/issues/6) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
+5. 🔒 Closed issue [#71](https://github.com/LifeAdventurer/generators/issues/71) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
 <!--END_SECTION:activity-->
