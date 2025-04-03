@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/LifeAdventurer/patient-intake-output-recorder/pull/74) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-2. ❗ Opened issue [#73](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/73) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-3. 🎉 Merged PR [#72](https://github.com/LifeAdventurer/patient-intake-output-recorder/pull/72) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-4. ❗ Opened issue [#6](https://github.com/LifeAdventurer/sentify/issues/6) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
-5. 🔒 Closed issue [#71](https://github.com/LifeAdventurer/generators/issues/71) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
+1. ❗ Opened issue [#10](https://github.com/LifeAdventurer/sentify/issues/10) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
+2. ❗ Opened issue [#9](https://github.com/LifeAdventurer/sentify/issues/9) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
+3. 🎉 Merged PR [#8](https://github.com/LifeAdventurer/sentify/pull/8) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
+4. 🎉 Merged PR [#7](https://github.com/LifeAdventurer/sentify/pull/7) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
+5. 🎉 Merged PR [#74](https://github.com/LifeAdventurer/patient-intake-output-recorder/pull/74) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
 <!--END_SECTION:activity-->
