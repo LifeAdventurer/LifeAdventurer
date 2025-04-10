@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#73](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/73) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-2. ❗ Opened issue [#76](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/76) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-3. ❗ Opened issue [#75](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/75) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-4. 🎉 Merged PR [#12](https://github.com/LifeAdventurer/sentify/pull/12) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
-5. 🗣 Commented on [#3](https://github.com/LifeAdventurer/sentify/issues/3#issuecomment-2779057926) in [LifeAdventurer/sentify](https://github.com/LifeAdventurer/sentify)
+1. 🔒 Closed issue [#68](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/68) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+2. 🔒 Closed issue [#70](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/70) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+3. 🔒 Closed issue [#73](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/73) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+4. ❗ Opened issue [#76](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/76) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+5. ❗ Opened issue [#75](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/75) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
 <!--END_SECTION:activity-->
