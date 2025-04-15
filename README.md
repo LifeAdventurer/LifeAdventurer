@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#81](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/81) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-2. 🔒 Closed issue [#51](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/51) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-3. 🔒 Closed issue [#49](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/49) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-4. 🔒 Closed issue [#48](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/48) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-5. 🔒 Closed issue [#67](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/67) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+1. 🔒 Closed issue [#81](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/81) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+2. ❗ Opened issue [#81](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/81) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+3. 🔒 Closed issue [#51](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/51) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+4. 🔒 Closed issue [#49](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/49) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
+5. 🔒 Closed issue [#48](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/48) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
 <!--END_SECTION:activity-->
