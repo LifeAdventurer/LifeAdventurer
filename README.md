@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#122](https://github.com/TFcis/NTOJ/pull/122) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-2. 🎉 Merged PR [#121](https://github.com/TFcis/NTOJ/pull/121) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
-3. ❗ Opened issue [#2](https://github.com/LifeAdventurer/OmniText/issues/2) in [LifeAdventurer/OmniText](https://github.com/LifeAdventurer/OmniText)
-4. 🗣 Commented on [#1](https://github.com/LifeAdventurer/OmniText/issues/1#issuecomment-2833516632) in [LifeAdventurer/OmniText](https://github.com/LifeAdventurer/OmniText)
-5. ❗ Opened issue [#1](https://github.com/LifeAdventurer/OmniText/issues/1) in [LifeAdventurer/OmniText](https://github.com/LifeAdventurer/OmniText)
+1. ❗ Opened issue [#3](https://github.com/LifeAdventurer/OmniText/issues/3) in [LifeAdventurer/OmniText](https://github.com/LifeAdventurer/OmniText)
+2. 🎉 Merged PR [#122](https://github.com/TFcis/NTOJ/pull/122) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+3. 🎉 Merged PR [#121](https://github.com/TFcis/NTOJ/pull/121) in [TFcis/NTOJ](https://github.com/TFcis/NTOJ)
+4. ❗ Opened issue [#2](https://github.com/LifeAdventurer/OmniText/issues/2) in [LifeAdventurer/OmniText](https://github.com/LifeAdventurer/OmniText)
+5. 🗣 Commented on [#1](https://github.com/LifeAdventurer/OmniText/issues/1#issuecomment-2833516632) in [LifeAdventurer/OmniText](https://github.com/LifeAdventurer/OmniText)
 <!--END_SECTION:activity-->
