@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/BookCatKid/TablissNG/issues/26) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-2. ❗ Opened issue [#25](https://github.com/BookCatKid/TablissNG/issues/25) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-3. 🔒 Closed issue [#75](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/75) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
-4. 🎉 Merged PR [#73](https://github.com/LifeAdventurer/generators/pull/73) in [LifeAdventurer/generators](https://github.com/LifeAdventurer/generators)
-5. ❗ Opened issue [#3](https://github.com/LifeAdventurer/OmniText/issues/3) in [LifeAdventurer/OmniText](https://github.com/LifeAdventurer/OmniText)
+1. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2926759298) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
+2. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2926758903) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
+3. ❗ Opened issue [#26](https://github.com/BookCatKid/TablissNG/issues/26) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
+4. ❗ Opened issue [#25](https://github.com/BookCatKid/TablissNG/issues/25) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
+5. 🔒 Closed issue [#75](https://github.com/LifeAdventurer/patient-intake-output-recorder/issues/75) in [LifeAdventurer/patient-intake-output-recorder](https://github.com/LifeAdventurer/patient-intake-output-recorder)
 <!--END_SECTION:activity-->
