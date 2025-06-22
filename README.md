@@ -83,9 +83,9 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2928507723) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-2. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2928504538) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-3. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2926759298) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-4. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2926758903) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-5. ❗ Opened issue [#26](https://github.com/BookCatKid/TablissNG/issues/26) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
+1. ❗ Opened issue [#16925](https://github.com/tldr-pages/tldr/issues/16925) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+2. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2928507723) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
+3. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2928504538) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
+4. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2926759298) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
+5. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2926758903) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
 <!--END_SECTION:activity-->
