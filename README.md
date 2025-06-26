@@ -53,10 +53,11 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 -->
 
 ## My GitHub Stats
+
 <p align="left">
-  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&disable_animations=true&hide_border=true"/>
-  <img width="197em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&hide=css,HTML,shell,batchfile&langs_count=10&theme=tokyonight&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5&disable_animations=true&hide_border=true"/>
- <img width="360em" src="https://github-readme-streak-stats-eight.vercel.app/?user=lifeadventurer&theme=tokyonight&disable_animations=true&hide_border=true"/>
+  <img width="270em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&disable_animations=true&hide_border=true"/>
+  <img width="176em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&hide=css,HTML,shell,batchfile&langs_count=10&theme=tokyonight&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5&disable_animations=true&hide_border=true"/>
+ <img width="324em" src="https://github-readme-streak-stats-eight.vercel.app/?user=lifeadventurer&theme=tokyonight&disable_animations=true&hide_border=true"/>
 </p>
 
 ## Recent Activity
