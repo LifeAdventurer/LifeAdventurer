@@ -1,12 +1,12 @@
-# Hello!
+## Hello!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&width=1000&lines=I'm+Life+Adventurer!;Talk+is+cheap.+Show+me+the+code.;Pioneering+a+future+where+technology+and+creativity+coexist+in+harmony.)](https://git.io/typing-svg)
 
-## About
+### About
 
 I'm a passionate developer driven by curiosity and a relentless desire to innovate. With a keen interest in exploring the latest technological advancements, I thrive on solving complex challenges and building scalable solutions. My journey is one of constant learning, from deep research to hands-on experimentation, and I always strive to push the boundaries of what's possible in the coding world. I'm committed to creating impactful, future-forward solutions that marry technology with creativity.
 
-## Skills
+### Skills
 
 <p align="left">
   <!-- Programming Languages -->
@@ -52,7 +52,7 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
 <!-- <p align="left"> <a href="https://www.github.com/Lifeadventurer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 -->
 
-## My GitHub Stats
+### My GitHub Stats
 
 <p align="left">
   <img width="270em" src="https://github-readme-stats.vercel.app/api?username=lifeadventurer&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&disable_animations=true&hide_border=true"/>
@@ -60,7 +60,7 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
  <img width="324em" src="https://github-readme-streak-stats-eight.vercel.app/?user=lifeadventurer&theme=tokyonight&disable_animations=true&hide_border=true"/>
 </p>
 
-## Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#16925](https://github.com/tldr-pages/tldr/issues/16925) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
