@@ -22,7 +22,7 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/LifeAdventurer/OmniText/issues/3) in [LifeAdventurer/OmniText](https://github.com/LifeAdventurer/OmniText)
+1. 🔒 Closed issue [#5](https://github.com/hung-yu-Shih/NEAT-cell/issues/5) in [hung-yu-Shih/NEAT-cell](https://github.com/hung-yu-Shih/NEAT-cell)
 2. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2928507723) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
 3. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2928504538) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
 4. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2926759298) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
