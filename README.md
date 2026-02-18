@@ -1,4 +1,4 @@
-# Hello!
+# Hello
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&width=1000&lines=I'm+Life+Adventurer!;Talk+is+cheap.+Show+me+the+code.;Pioneering+a+future+where+technology+and+creativity+coexist+in+harmony.)](https://git.io/typing-svg)
 
@@ -16,17 +16,4 @@ I'm a passionate developer driven by curiosity and a relentless desire to innova
     <img width="176em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeadventurer&layout=compact&hide=css,HTML,shell,batchfile&langs_count=10&theme=tokyonight&exclude_repo=old-blog&size_weight=0.5&count_weight=0.5&disable_animations=true&hide_border=true"/>
    <img width="324em" src="https://github-readme-streak-stats-eight.vercel.app/?user=lifeadventurer&theme=tokyonight&disable_animations=true&hide_border=true"/>
   </p>
-</details>
-
-<details>
-  <summary>Recent Activity</summary>
-
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#113](https://github.com/BookCatKid/TablissNG/issues/113) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-2. 🗣 Commented on [#25](https://github.com/BookCatKid/TablissNG/issues/25#issuecomment-3906128007) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-3. 🗣 Commented on [#25](https://github.com/BookCatKid/TablissNG/issues/25#issuecomment-3905917521) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-4. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2926759298) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-5. 🗣 Commented on [#26](https://github.com/BookCatKid/TablissNG/issues/26#issuecomment-2926758903) in [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG)
-<!--END_SECTION:activity-->
-
 </details>
